@@ -1,0 +1,62 @@
+{
+ "zero (G1 zero, elbows 90)": [],
+ "arms down (shoulder roll 8)": [],
+ "squat": [],
+ "T-pose": [],
+ "arms up (roll 50)": [],
+ "arms forward": [],
+ "walk sway": [],
+ "step": [],
+ "turn": [],
+ "push-up arms": [],
+ "REF arms straight down, no roll": [
+  [
+   "left_hip_pitch_link",
+   "left_elbow",
+   757,
+   -6.66
+  ],
+  [
+   "left_hip_roll_link",
+   "left_elbow",
+   217,
+   -2.25
+  ],
+  [
+   "right_hip_pitch_link",
+   "right_elbow",
+   757,
+   -6.66
+  ],
+  [
+   "right_hip_roll_link",
+   "right_elbow",
+   217,
+   -2.25
+  ],
+  [
+   "left_elbow",
+   "left_hip_pitch_link",
+   504,
+   -4.52
+  ],
+  [
+   "left_elbow",
+   "left_hip_roll_link",
+   1360,
+   -7.5
+  ],
+  [
+   "right_elbow",
+   "right_hip_pitch_link",
+   504,
+   -4.52
+  ],
+  [
+   "right_elbow",
+   "right_hip_roll_link",
+   1360,
+   -7.5
+  ]
+ ]
+}
