@@ -84,7 +84,6 @@ Power: 2S LiPo through a 6 V buck converter (≥ 5 A). The G1 torso is hollow an
 
 ## Printing and moulding
 - **Printing:** files in `STL/print/` are laid on their largest flat face (usually the lid split face). The outside is the curved G1 surface, so some parts need supports. **Print `STL/print/fit_test` before anything else.**
-- **Moulding:** I dropped the strict "every shell straight-pull" rule from the previous version, because you asked for the exact G1 shape. Every body and lid has one flat split face, which makes silicone moulding practical. But the curved G1 outsides need two-part (sometimes three-part) silicone moulds, and I haven't checked them for undercuts. Glue faces are the flat lid faces.
 
 ## Files
 ```
